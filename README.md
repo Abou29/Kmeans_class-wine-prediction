@@ -31,6 +31,6 @@ Les attributs sont :
 
 13- Proline
 
-NOTE:
+NOTE :
 - Le premier attribut est l'identifiant de la classe (1-3).
 - Tous les autres attributs sont continus
